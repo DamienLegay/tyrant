@@ -1,3 +1,5 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/DamienLegay/tyrant?branch=master)](https://bettercodehub.com/)
+
 # Tyrant
 
 A classic graphical roguelike game written in Java.
